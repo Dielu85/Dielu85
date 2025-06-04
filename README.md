@@ -16,4 +16,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Languages
 - Spanish
 - English
+## Certificates
+- Quality Control Automation. May 2025.
 ![Screenshot 2025-06-02 at 11-19-00 certificate pdf](https://github.com/user-attachments/assets/395b3f5b-86da-4b95-a190-817e5a2dd081)
+- Generative A.I.. Oct 2024.
+[Diploma_AN_Diego_Martin_Gomez.pdf](https://github.com/user-attachments/files/20582866/Diploma_AN_Diego_Martin_Gomez.pdf)
